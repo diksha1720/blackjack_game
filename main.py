@@ -7,9 +7,9 @@ from replit import clear
 def print_cards(computer_cards, player_cards):
   clear()
   print(f"Computer's cards {computer_cards}")
-  print(f"Computer's total {sum(computer_cards)}")
+  # print(f"Computer's total {sum(computer_cards)}")
   print(f"Your cards {player_cards}")
-  print(f"Your total {sum(player_cards)}")
+  # print(f"Your total {sum(player_cards)}")
 
 
 
